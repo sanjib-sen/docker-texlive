@@ -1,0 +1,9 @@
+[submodule "texlive-thin"]
+	path = texlive-thin
+	url = https://github.com/sanjib-sen/texlive-thin.git
+[submodule "texlive-full"]
+	path = texlive-full
+	url = https://github.com/sanjib-sen/texlive-full.git
+[submodule "texlive-islandoftex"]
+	path = texlive-islandoftex
+	url = https://github.com/sanjib-sen/texlive-islandoftex.git
